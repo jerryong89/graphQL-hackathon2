@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/graphQL-hackathon/static/css/main.3713987e.chunk.css",
-    "main.js": "/graphQL-hackathon/static/js/main.0a54e543.chunk.js",
-    "main.js.map": "/graphQL-hackathon/static/js/main.0a54e543.chunk.js.map",
-    "runtime-main.js": "/graphQL-hackathon/static/js/runtime-main.822daf7f.js",
-    "runtime-main.js.map": "/graphQL-hackathon/static/js/runtime-main.822daf7f.js.map",
-    "static/js/2.18ee4327.chunk.js": "/graphQL-hackathon/static/js/2.18ee4327.chunk.js",
-    "static/js/2.18ee4327.chunk.js.map": "/graphQL-hackathon/static/js/2.18ee4327.chunk.js.map",
-    "index.html": "/graphQL-hackathon/index.html",
-    "static/css/main.3713987e.chunk.css.map": "/graphQL-hackathon/static/css/main.3713987e.chunk.css.map",
-    "static/js/2.18ee4327.chunk.js.LICENSE.txt": "/graphQL-hackathon/static/js/2.18ee4327.chunk.js.LICENSE.txt"
+    "main.css": "/graphQL-hackathon2/static/css/main.3713987e.chunk.css",
+    "main.js": "/graphQL-hackathon2/static/js/main.abaef1a0.chunk.js",
+    "main.js.map": "/graphQL-hackathon2/static/js/main.abaef1a0.chunk.js.map",
+    "runtime-main.js": "/graphQL-hackathon2/static/js/runtime-main.0eee1b45.js",
+    "runtime-main.js.map": "/graphQL-hackathon2/static/js/runtime-main.0eee1b45.js.map",
+    "static/js/2.18ee4327.chunk.js": "/graphQL-hackathon2/static/js/2.18ee4327.chunk.js",
+    "static/js/2.18ee4327.chunk.js.map": "/graphQL-hackathon2/static/js/2.18ee4327.chunk.js.map",
+    "index.html": "/graphQL-hackathon2/index.html",
+    "static/css/main.3713987e.chunk.css.map": "/graphQL-hackathon2/static/css/main.3713987e.chunk.css.map",
+    "static/js/2.18ee4327.chunk.js.LICENSE.txt": "/graphQL-hackathon2/static/js/2.18ee4327.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.822daf7f.js",
+    "static/js/runtime-main.0eee1b45.js",
     "static/js/2.18ee4327.chunk.js",
     "static/css/main.3713987e.chunk.css",
-    "static/js/main.0a54e543.chunk.js"
+    "static/js/main.abaef1a0.chunk.js"
   ]
 }
