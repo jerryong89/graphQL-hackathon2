@@ -151,7 +151,7 @@ export default function LandingPage(props) {
         <div className="col-lg-7  col-md-7 col-sm-12">
           <img
             className="img-landing img-thumbnail"
-            src='../.././public/img/preview.png'
+            src='img/preview.png'
             alt="..."
           ></img>
         </div>
